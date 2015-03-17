@@ -1,0 +1,10 @@
+project(sn_navigator)
+add_graphlab_executable(FB_CbV FB_CbV.cpp)
+add_graphlab_executable(FB_CbV_M2F FB_CbV_M2F.cpp)
+add_graphlab_executable(FB_CbV_M2F_Clstr FB_CbV_M2F_Clstr.cpp)
+add_graphlab_executable(Epinion_Recomm Epinion_Recomm.cpp)
+add_graphlab_executable(FB_CbV_M2F_cntrlzd FB_CbV_M2F_cntrlzd.cpp)
+add_graphlab_executable(Epinion_Recomm_cat Epinion_Recomm_cat.cpp)
+add_graphlab_executable(gplus_CbV gplus_CbV.cpp)
+add_graphlab_executable(diva DIVa_SC_Inc.cpp)
+
